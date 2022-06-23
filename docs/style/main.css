@@ -1,0 +1,50 @@
+body {
+	background-color: #18181b;
+}
+
+hr {
+	background-color: #43434c;
+	margin-top: 10pt;
+	width: 90%;
+	box-align: center;
+	height: 1pt;
+	border-width: 0ch;
+}
+
+ul > p {
+	display: inline;
+	color: white;
+}
+
+li {
+	display: inline;
+	margin: 10pt;
+}
+
+li > a {
+	font-size: 12pt;
+	color: #94b15e;
+	text-decoration: none;
+}
+
+li > a:hover {
+	color: #f44e7c;
+	text-decoration: underline;
+}
+
+header {
+	display: block;
+	width: 90%;
+	vertical-align: middle;
+	text-align: center;
+	padding: 10pt;
+}
+
+header > img {
+	vertical-align: middle;
+}
+
+ul {
+	display: inline;
+}
+
